@@ -9,6 +9,7 @@ function UserDashboard() {
       <h1 className="text-4xl font-bold text-center">
         Welcome, <span className='text-blue-600'>{user?.email || 'Suraj'}</span>
       </h1>
+      <p> hii</p>
       
     </div>
   );
